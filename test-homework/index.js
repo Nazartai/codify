@@ -1,0 +1,1 @@
+console.log('тестовая папка feat/test-homework');
